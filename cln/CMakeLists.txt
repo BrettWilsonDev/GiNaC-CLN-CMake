@@ -251,8 +251,3 @@ install(FILES
 )
 
 add_subdirectory(src)
-if(NOT EMSCRIPTEN)
-    add_subdirectory(tests)
-    add_subdirectory(examples)
-    add_subdirectory(doc)
-endif()
