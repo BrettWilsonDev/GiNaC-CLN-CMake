@@ -1,6 +1,6 @@
 # GiNaC + CLN CMake Build
 
-This repository provides a combined build of **GiNaC** and **CLN**, allowing you to easly build them together and use them with **Emscripten** via CMake.
+This repository provides a combined build of **GiNaC** and **CLN**, allowing you to easly build them together and use them via CMake.
 
 ## Using This Repository in Your CMake Project
 
